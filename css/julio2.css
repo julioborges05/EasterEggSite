@@ -1,0 +1,37 @@
+body{
+    background-color: #aa0000;
+}
+
+.conteudo{
+    text-align: center;
+}
+
+button {
+    padding: 10px 40px 10px 40px;
+    margin: 10px 10px 10px 0px;
+    background-color: gray;
+    background-image: radial-gradient(#807D80, rgb(66, 66, 66));
+    color: white;
+    border: none;
+    border-color: #e2e2e2;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12pt;
+    border-radius: 25px;
+}
+
+.btn1{
+    background-color: black;
+    background-image: url(https://img.elo7.com.br/product/original/28B29DA/fundo-fotografico-em-tecido-textura-cinza-2-20x1-50-decoracao.jpg);
+    color: white;
+}
+
+.btn2{
+    background-color: gray;
+    background-image: url(https://andrealealfotografia.com/wp-content/uploads/2018/09/Textura-001LN-150x230.jpg);
+    color: white;
+}
+
+.btn3{
+    background-image: url(https://img.elo7.com.br/product/original/28B28C9/fundo-fotografico-em-tecido-textura-vermelha-2-60x1-50-painel-sublimado.jpg);;
+    color: white;
+}
